@@ -2,7 +2,7 @@
 
 ## URL
 Setelah route ditambahkan, halaman galeri tersedia di:
-`http://localhost/merdes/galeri`
+`https://rozi-13.github.io/merdes/`
 
 ## Pemasangan
 1. Salin `app/Controllers/Galeri.php` ke `app/Controllers/`.
